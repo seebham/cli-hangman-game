@@ -9,5 +9,5 @@ You can try playing the game here https://hangmanwordgame.com/
 ### SETUP THE GAME CODE AND PLAY
 
   * install git
-  * `git clone https://github.com/devs-nest/hangman-test.git`
+  * `git clone https://github.com/seebham/cli-hangman-game.git`
   * `python hangman` (to run code, you would be using python3) 
